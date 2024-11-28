@@ -1,2 +1,3 @@
 payload:
   - PROCESS-NAME,RobloxPlayerBeta.exe
+  - PROCESS-NAME,com.roblox.client
