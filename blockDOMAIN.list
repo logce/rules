@@ -1,4 +1,7 @@
-DOMAIN,browser.vivo.com.cn
-DOMAIN,browserconf.vivo.com.cn
-DOMAIN,st-sentinel.vivo.com.cn
-DOMAIN,weatherapi.vivo.com.cn
+DOMAIN-SUFFIX,browserconf.vivo.com.cn
+DOMAIN-SUFFIX,browser.vivo.com.cn
+DOMAIN-SUFFIX,voiceads.cn
+DOMAIN-SUFFIX,pgdt.ugdtimg.com
+DOMAIN-SUFFIX,log-stats.weathercn.com
+DOMAIN-SUFFIX,hm.baidu.com
+DOMAIN-SUFFIX,adreq.vivo.com.cn
